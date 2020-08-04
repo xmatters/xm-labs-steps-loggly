@@ -35,7 +35,7 @@ For sending data you will need a customer token (not an API Token). Follow [thes
 3. Click Import, and select the zip file you just downloaded
 
 For using the **Loggly - Retrieve Data** step:
-1. Create an Endpoint with the Basic Authentication type that connects to loggly. The URL Should be formed like so: "https://\<account\>.loggly.com". This should be the start of the URL when using Loggly normally.
+1. Create an Endpoint with the Basic Authentication type that connects to loggly. The URL Should be formed like so: `https://<account>.loggly.com`. This should be the start of the URL when using Loggly normally.
 
 For using the **Loggly - Send Data** step:
 1. Create an Endpoint with no authentication that has the base URL `https://logs-01.loggly.com`
