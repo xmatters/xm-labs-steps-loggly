@@ -2,6 +2,9 @@
 
 These steps allow you to send and retieve data from Loggly.
 
+Steps included:
+- **Loggly - Retrieve Data**
+- **Loggly - Send Data**
 
 ---------
 
@@ -44,9 +47,6 @@ For using the **Loggly - Send Data** step:
 ## Usage
 Make sure you've created the appropriate endpoint for the step you are using. Find the instructions above in the **xMatters Setup**.
 
-Steps included:
-- **Loggly - Retrieve Data**
-- **Loggly - Send Data**
 
 ## Retrieve Data
 
